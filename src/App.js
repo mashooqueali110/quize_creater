@@ -1,10 +1,15 @@
 
 import './App.css';
+import Create from './Create.js'
+
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      
+      <center><Create/></center>
+      
+      
     </div>
 
   );
